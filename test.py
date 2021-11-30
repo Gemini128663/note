@@ -17,6 +17,6 @@ if not os.path.exists(path1):
     print('a')
     os.mkdir(path1)'''
 
-import time
+
 
 
