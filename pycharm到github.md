@@ -11,3 +11,6 @@ https://blog.csdn.net/complected/article/details/116432694?utm_medium=distribute
 2、项目推送
 
 ![项目推送.png](photos/项目推送.png)
+
+
+由于未知原因，可能会失败多次，多尝试几次
